@@ -5,8 +5,8 @@ const Middle = () => {
   return (
     <div className='in_middle'>
     <div className='middle_text'>
-    <h1>Want anything to be<br/> easy with LaslesVPN.</h1>
-    <p>Provide a network for all your needs with ease and fun using LaslesVPN<br/>
+    <h1>Want anything to be<br/> easy with VPN.</h1>
+    <p>Provide a network for all your needs with ease and fun using VPN<br/>
      discover interesting features from us.</p>
     <div className='middle_btn'>
     <button>Get Started</button>

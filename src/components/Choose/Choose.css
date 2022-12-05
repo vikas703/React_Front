@@ -32,14 +32,14 @@
 }
 
 .box1{
-    height: 80vh;
+    height: auto;
+    min-height: 400px;
     width: 200px;
     border: 2px solid #DDDDDD;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
-    gap: 20px;
     border-radius: 10px;
 }
 .box1:hover{

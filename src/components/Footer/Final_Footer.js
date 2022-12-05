@@ -3,14 +3,19 @@ import logo from '../../assets/Logo.svg';
 import face from '../../assets/Facebook.svg';
 import twi from '../../assets/Twitter.svg';
 import insta from '../../assets/Instagram.svg';
+import {AiFillUnlock} from 'react-icons/ai';
+
 
 const Final_Footer = () => {
   return (
     <div className='Final_Footer1'>
 
     <div className='Final_Footer2'>
-    <img src={logo} alt='img' className='final_footer_img' />
-    <p><b>LaslesVPN</b> is a private virtual network that<br/>
+    <div className='footer_logo'>
+    <h4>VPN</h4>
+    <span><AiFillUnlock/></span>
+    </div>
+    <p><b>VPN</b> is a private virtual network that<br/>
      has unique features and has high security.</p>
      <div className='Footer_icons'>
      <div className='icon_back'>
@@ -23,7 +28,7 @@ const Final_Footer = () => {
      <img src={insta} alt='img' className='final_footer_icon' />
      </div>
      </div>
-    <span>©2020LaslesVPN</span>
+    <span>©2020 VPN</span>
     </div>
 
     <div className='Final_Footer3'>
@@ -38,7 +43,7 @@ const Final_Footer = () => {
 
     <div className='Final_Footer3'>
     <h4>Engage</h4>
-    <p>LaslesVPN ?  </p>
+    <p>VPN ?  </p>
     <p>FAQ</p>
     <p>Tutorials</p>
     <p>About Us</p>

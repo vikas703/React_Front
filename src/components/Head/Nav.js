@@ -1,6 +1,8 @@
 import React,{useRef} from 'react';
-import logo from '../../assets/Logo.svg';
 import {FaBars,FaTimes} from 'react-icons/fa';
+import {AiFillUnlock} from 'react-icons/ai';
+
+
 
 const Nav = () => {
   const NavRef = useRef();
@@ -13,7 +15,8 @@ const Nav = () => {
     <div className='in_nav'>
 
     <div className='nav_logo'>
-    <img src={logo} alt="img"  className='logo'/>
+    <h4>VPN</h4>
+    <span><AiFillUnlock/></span>
     </div>
     <button className='nav_btn ' onClick={showNavbar} ><FaBars/></button>
 

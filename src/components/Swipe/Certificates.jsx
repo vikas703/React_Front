@@ -18,7 +18,7 @@ const  data = [
     avatar: pic3,
     Name: 'Viezh Robert',
     place:'Warsaw, Poland',
-    review:'“Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best”.',
+    review:'“Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. VPN always the best”.',
   },
   {
     avatar: pic2,
