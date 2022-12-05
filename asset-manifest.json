@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React_Front/static/css/main.4abf7feb.css",
-    "main.js": "/React_Front/static/js/main.298d865e.js",
+    "main.css": "/React_Front/static/css/main.24299a91.css",
+    "main.js": "/React_Front/static/js/main.80aa3463.js",
     "static/js/787.c4e7f8f9.chunk.js": "/React_Front/static/js/787.c4e7f8f9.chunk.js",
     "static/media/glo2.svg": "/React_Front/static/media/glo2.64a407400237b2f2db6fcd37703de60c.svg",
     "static/media/Global.svg": "/React_Front/static/media/Global.cd3f4cb073af7ceaf306b465e99c5f3c.svg",
@@ -24,12 +24,12 @@
     "static/media/tick.svg": "/React_Front/static/media/tick.0294778832d2afbd3d43fe720fc55bb1.svg",
     "index.html": "/React_Front/index.html",
     "static/media/Facebook.svg": "/React_Front/static/media/Facebook.31f5bdfc997602bb19339a8b1256f0de.svg",
-    "main.4abf7feb.css.map": "/React_Front/static/css/main.4abf7feb.css.map",
-    "main.298d865e.js.map": "/React_Front/static/js/main.298d865e.js.map",
+    "main.24299a91.css.map": "/React_Front/static/css/main.24299a91.css.map",
+    "main.80aa3463.js.map": "/React_Front/static/js/main.80aa3463.js.map",
     "787.c4e7f8f9.chunk.js.map": "/React_Front/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4abf7feb.css",
-    "static/js/main.298d865e.js"
+    "static/css/main.24299a91.css",
+    "static/js/main.80aa3463.js"
   ]
 }
